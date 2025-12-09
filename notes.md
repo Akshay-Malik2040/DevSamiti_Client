@@ -2,3 +2,7 @@
   - Initialize the app and setup tailwindcss and daisy ui
   - Create navbar and footer component
   - setup the routing using react-router-dom
+
++ Part 2
+ - axios package installation
+ - Login component + SignUp page
